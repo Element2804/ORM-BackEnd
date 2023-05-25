@@ -26,8 +26,8 @@ This is a demonstration using Insomnia.rest <br>
 
 
 ## Credits
-- https://www.w3schools.com/sql/default.asp
-- https://www.npmjs.com/package/inquirer/v/8.2.4
+- https://sequelize.org/v3/docs/associations/#foreign-keys_1
+- https://gist.github.com/zcaceres/83b554ee08726a734088d90d455bc566
 - https://www.youtube.com/watch?v=qorkD6nPYQM&t=14045s
 
 ## Walkthrough-Video
