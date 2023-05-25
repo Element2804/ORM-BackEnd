@@ -16,13 +16,12 @@ This application is covered under the MIT license.<br>
 
 ## Installation
 
-To install, fork the repository and navigate to the command line then type npm i. Then log in to MySql and "SOURCE" the database. After that, type npm run seed.
+To install, fork the repository and navigate to the command line then type npm i. Then log in to MySql and "SOURCE" the database. After that, type npm run seed. After the installation type npm start in to the command line.
 
 
 ## Usage
-
-After the installation type npm start in to the command line.
-![ezgif-3-042224f2a6](https://github.com/Element2804/Personnel-Tracker/assets/103654389/6ab06545-0e83-4c7a-9103-5f092bf7b3f4)
+This is a demonstration using Insomnia.rest <br>
+![ezgif-3-042224f2a6](https://github-production-user-asset-6210df.s3.amazonaws.com/103654389/241009756-05cb394b-a8d9-4c5d-a918-9fdb5833fd67.gif)
 
 
 
