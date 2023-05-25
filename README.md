@@ -16,20 +16,20 @@ This application is covered under the MIT license.<br>
 
 ## Installation
 
-To install, fork the repository and navigate to the command line then type npm i. Then log in to MySql and "SOURCE" the database. After that, type npm run seed.
+To install, fork the repository and navigate to the command line then type npm i. Then log in to MySql and "SOURCE" the database. After that, type npm run seed. After the installation type npm start in to the command line.
 
 
 ## Usage
 
-After the installation type npm start in to the command line.
-![ezgif-3-042224f2a6](https://github.com/Element2804/Personnel-Tracker/assets/103654389/6ab06545-0e83-4c7a-9103-5f092bf7b3f4)
+This is the functionality shown using Insomnia.rest for testing. <br>
+![ezgif-1-7c4394e5d1](https://github.com/Element2804/ORM-BackEnd/assets/103654389/05cb394b-a8d9-4c5d-a918-9fdb5833fd67)
 
 
 
 ## Credits
-- https://www.w3schools.com/sql/default.asp
-- https://www.npmjs.com/package/inquirer/v/8.2.4
+- https://sequelize.org/v3/docs/associations/#foreign-keys_1
+- https://gist.github.com/zcaceres/83b554ee08726a734088d90d455bc566
 - https://www.youtube.com/watch?v=qorkD6nPYQM&t=14045s
 
 ## Walkthrough-Video
-- https://drive.google.com/file/d/1-VppV8r1WmBeCQ_6dn3YujFZmvPNLdB8/view
+- https://drive.google.com/file/d/1OlXOv9siOGq9NWDFVxv1Yg0-cXvFcEXl/view
